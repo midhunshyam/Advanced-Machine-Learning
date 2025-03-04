@@ -1,9 +1,14 @@
-Submitted to Western Sydney University 
-"\n"
-Professor: Oliver Obst
-"\n"
-Tutor: Stuart Fitzpatrick 
+# MiniPong
 
-"\n"
+**Submitted to Western Sydney University**  
+**Professor:** Oliver Obst  
+**Tutor:** Stuart Fitzpatrick  
 
-MiniPong: CNN for Coordinate Classification, CNN Autoencoder, and MiniPong Reinforcement Learning Agent
+---
+
+## Overview
+
+MiniPong includes the following projects:
+- **CNN for Coordinate Classification**
+- **CNN Autoencoder**
+- **MiniPong Reinforcement Learning Agent**
