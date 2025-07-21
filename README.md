@@ -18,7 +18,7 @@ This repository contains the notebook **_AML.ipynb_**, which walks through a ser
 - Task 1: CNN for Position Prediction
   - Goal: Predict the ball’s x‐coordinate from a single frame.
   - Approach: Build a small CNN classifier/regressor; use MSE or cross‐entropy based on binning.
--Task 2: Convolutional Autoencoder
+- Task 2: Convolutional Autoencoder
   - Goal: Learn a low‐dimensional embedding of game frames.
   - Approach: Train an undercomplete autoencoder; inspect reconstruction quality.
 - Task 3: RL Agent (Level 1)
