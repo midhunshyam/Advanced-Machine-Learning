@@ -29,4 +29,8 @@ This repository contains the notebook **_AML.ipynb_**, which walks through a ser
   - Approach: Add extra inputs and tune γ, learning rate, and network size.
 - Bonus: DQN Q‐Learning
   - Goal: Compare value‐based learning to policy methods.
-  - **Approach **: Implement experience replay, ε‐greedy exploration.
+  - **Approach**: Implement experience replay, ε‐greedy exploration.
+ 
+## Results & Visualisation
+
+All plots (training curves, reconstructions, agent performance) are generated inline in the notebook under the “Visualisation” sections. You can export figures via Jupyter or save them programmatically by uncommenting the plt.savefig(...) lines.
