@@ -1,12 +1,6 @@
 # Advanced Machine Learning  
 
-
-**Author:** Midhun Shyam   
-**Date:** October 2024
-
-## Description
-
-This repository contains the notebook **_AML.ipynb_**, which walks through a series of advanced machine learning and reinforcement learning tasks using a custom MiniPong environment. You will:
+This repository contains the notebook `AML.ipynb`, which walks through a series of advanced machine learning and reinforcement learning tasks using a custom MiniPong environment. 
 
 1. **Task 1**: Train a convolutional neural network (CNN) to predict the `x`‐coordinate of a moving marker.  
 2. **Task 2**: Train a convolutional autoencoder to learn a compressed representation of the game frames.  
