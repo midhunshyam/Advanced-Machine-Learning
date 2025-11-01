@@ -1,8 +1,7 @@
 # Advanced Machine Learning  
 
 
-**Author:** Midhun Shyam  
-**Student ID:** 22058122  
+**Author:** Midhun Shyam   
 **Date:** October 2024
 
 ## Description
