@@ -50,5 +50,5 @@ This repository contains the notebook `AML.ipynb`, which walks through a series 
 
 ### Visualisation
 
-All plots (training curves, reconstructions, agent performance) are generated inline in the notebook under the “Visualisation” sections. 
+All plots (training curves, reconstructions, agent performance) are generated inline in the notebook under the respective sections. 
 
