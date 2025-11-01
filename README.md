@@ -50,5 +50,5 @@ This repository contains the notebook `AML.ipynb`, which walks through a series 
 
 ### Visualisation
 
-All plots (training curves, reconstructions, agent performance) are generated inline in the notebook under the “Visualisation” sections. You can export figures via Jupyter or save them programmatically by uncommenting the plt.savefig(...) lines.
+All plots (training curves, reconstructions, agent performance) are generated inline in the notebook under the “Visualisation” sections. 
 
