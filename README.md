@@ -27,7 +27,7 @@ This repository contains the notebook `AML.ipynb`, which walks through a series 
 | **Task 1: CNN Position Prediction**             | 3‑layer CNN                               | LR = 1 e‑3 ; Batch = 64 ; Epochs = 30            | **Avg Test Loss** = 0.0004                              |
 | **Task 2: Convolutional Autoencoder**           | 4‑block Conv Autoencoder                  | LR = 5 e‑4 ; Batch = 32 ; Epochs = 50            | **Avg Test Loss** = 0.0183                              |
 | **Task 3: RL Agent (Level 1)**                  | Policy‑Gradient (Actor‑Critic, PGD)       | LR = 5 e‑3 ; γ = 0.99 ; Episodes = 500           | **Test‑Average** = 227.76 ± 185.17                      |
-| **Task 4: RL Agent (Level 3)**                  | SARSA‑style Actor‑Critic                  | LR = 5 e‑4 ; γ = 0.95 ; Episodes = 1 000         | **Test‑Average** = 58.24 ± 53.87                        |
+| **Task 4: RL Agent (Level 3)**                  | SARSA Actor‑Critic                  | LR = 5 e‑4 ; γ = 0.95 ; Episodes = 1 000         | **Test‑Average** = 58.24 ± 53.87                        |
 | **Bonus 1: DZ Prediction (NN)**                 | Feed‑forward CNN regressor                | LR = 1 e‑2 ; Batch = 32 ; Epochs = 200           | **Avg Loss on Test Set** = 0.0552                       |
 | **Bonus 2: DQN Q‑Learning**                     | DQN w/ Replay Buffer                      | LR = 1 e‑4 ; γ = 0.99 ; ε decays 1→0.01          | **Test‑Average** = 152.88 ± 163.56                      |
 | **Bonus 3: ModifiedEnv (Negative‐Reward PGD)**  | PGD Policy in `ModifiedMiniPongEnv`       | Same as Task 3 PGD; env adds –1 per time‐step    | **Test‑Average** = 263.88 ± 219.38                      |
