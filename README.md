@@ -1,4 +1,4 @@
-<h1 align="center">Seeing and playing MiniPong with CNNs and reinforcement learning</h1>
+<h1 align="center">MiniPong with CNNs and reinforcement learning</h1>
 
 <p align="center">
   <b>CNNs that read ball and paddle positions off a tiny Pong screen, and agents that learn to keep the ball in play.</b><br>
